@@ -1,0 +1,1 @@
+# This is a script to generate variants of the cities file from the XML file
